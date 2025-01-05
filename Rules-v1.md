@@ -24,7 +24,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 
 - **Nom des dossiers, fichiers , composants , fonctions , procèdures , variables** : Utiliser une convention claire (ex. `camelCase`) pour nommer.
 - **Structure** : Maintenir une organisation logique pour les dossiers (ex. `src`, `tests`, `docs`).
-- **Langue unique** : Bien que ce README soit rédigé en français, tous les projets du club doivent être développés en anglais de mème pour la documentation. Cette norme vise à éviter les conflits linguistiques entre les collaborateurs et à garantir une compréhension claire et uniforme au sein de l'équipe.
+- **Langue unique** : Bien que ce README soit rédigé en français ou en anglais ou meme bil dareja ... , tous les projets du club doivent être développés en anglais. Cette norme vise à éviter les conflits linguistiques entre les collaborateurs et à garantir une compréhension claire et uniforme au sein de l'équipe.
 
 ### 🧹 Code propre
 
@@ -40,7 +40,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 - **Commits** : Utiliser des messages de commit explicites (ex. `fix: resolved login bug`).
 
 ### 📊 Gestion des tâches
-
+- **Roles** : pour chaque période vous aurez une role differente.
 - **Priorisation** : Suivre le backlog et respecter les priorités définies.
 - **ReadMefiles/Markdown** : Mettre à jour les tâches une fois complétées.
 - **Daily Stand-ups** : Participer aux réunions quotidiennes pour aligner les équipes.
@@ -78,7 +78,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 - **Emna Ben Mahmoud** - Testeur du plateform Assignment
 - **Ons Zayani** - Testeur du plateform Assignment
 - **Ali Zayn** - Testeur du plateform Assignment
-- **Ghassen Latrach** - Testeur du plateform Assignment et Dèveloppeur Full-Stack
+- **Ghassen Latrach** - Testeur du plateform Assignment
 
 ## 🌟 Les Jokers :
 
