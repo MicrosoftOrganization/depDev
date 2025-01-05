@@ -14,7 +14,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 - **Base de données** : [ex. MongoDB]
 - **Outils de gestion** : [ex. GitHub]
 - **Documentation** : [ex. Swagger, Markdown]
-- **Test** : [ex. Swagger, Postman]
+- **Test** : [ex. Swagger, Postman, Insomnia]
 
 ---
 
@@ -24,6 +24,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 
 - **Nom des dossiers, fichiers , composants , fonctions , procèdures , variables** : Utiliser une convention claire (ex. `camelCase`) pour nommer.
 - **Structure** : Maintenir une organisation logique pour les dossiers (ex. `src`, `tests`, `docs`).
+- **Langue unique** : Bien que ce README soit rédigé en français, tous les projets du club doivent être développés en anglais de mème pour la documentation. Cette norme vise à éviter les conflits linguistiques entre les collaborateurs et à garantir une compréhension claire et uniforme au sein de l'équipe.
 
 ### 🧹 Code propre
 
@@ -54,6 +55,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 
 - **Données sensibles** : Ne jamais committer des données sensibles dans le code (ex. mots de passe, clés API).
 - **Revues** : Passer en revue toute contribution externe avant de l'intégrer.
+- **Protocoles** : mettre en place des mesures ou des packages pour sècuriser vos options contre les cyberattaques. 
 
 ---
 
@@ -61,6 +63,9 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 
 - Toujours documenter les nouvelles fonctionnalités dans le fichier `NomPrenom-Tasks.md`.
 - Organiser des rétrospectives à la fin de chaque sprint pour discuter des améliorations possibles.
+- Toujours utiliser des types stricts , lors de l'utilisation de TypeScript, il est crucial de respecter et d'implémenter les types. Cela permet d'éviter les erreurs de type et d'assurer une meilleure maintenabilité du code. Activez les options strictes dans le fichier tsconfig.json, comme "strict": true, pour garantir une vérification de type rigoureus
+- Ne pas mélanger différentes bibliothèques de composants dans l'interface utilisateur. Cela peut entraîner des incohérences dans le style et la fonctionnalité, rendant le code difficile à maintenir et à déboguer. Choisissez une bibliothèque principale et restez-y fidèle pour éviter des conflits ultérieurs
+  
 
 ---
 
@@ -73,7 +78,7 @@ Ce document fournit des informations essentielles sur les projets, les technolog
 - **Emna Ben Mahmoud** - Testeur du plateform Assignment
 - **Ons Zayani** - Testeur du plateform Assignment
 - **Ali Zayn** - Testeur du plateform Assignment
-- **Ghassen Lattrach** - Testeur du plateform Assignment
+- **Ghassen Latrach** - Testeur du plateform Assignment et Dèveloppeur Full-Stack
 
 ## 🌟 Les Jokers :
 
