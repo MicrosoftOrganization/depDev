@@ -24,7 +24,6 @@ Front-end:
 Back-end - query of fetching instructors in the select (mobile) not working as well as updating session(change instructor in a particular session) 
 
 ## Image illustratif :
-logout error :
-[![Capture-d-cran-2025-01-17-122402.png](https://i.postimg.cc/sxcbsz03/Capture-d-cran-2025-01-17-122402.png)](https://postimg.cc/zHyxFsrQ)
+logout error : [![Capture-d-cran-2025-01-17-122402.png](https://i.postimg.cc/sxcbsz03/Capture-d-cran-2025-01-17-122402.png)](https://postimg.cc/zHyxFsrQ)
 
 
