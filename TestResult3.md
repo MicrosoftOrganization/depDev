@@ -1,12 +1,9 @@
 # 📖 Notes:
-___
 
 ## 🌟 Le nom du contributeur : Emna ben Mahmoud
-___
 ## 📁 Lieux de l'erreur :
 Interface Member
 Interface Instructor-sessions
-___
 ## 📊 type d'erreurs :
 Front end:(as a member)
 - couleur du text pas trop lisible(sessions)
@@ -21,15 +18,18 @@ Back-end:
 - Parfois generation d'erreur lors du chargement des instructors(img 4)
 - le champs"chats" genere un erreur
 
-___
 ## Images illustratifs:
 image 1
+
 [![non-justifi.png](https://i.postimg.cc/kM0MJs9d/non-justifi.png)](https://postimg.cc/s1JCKpvn)
 image 2 
+
 [![Capture-d-cran-2025-01-18-222459.png](https://i.postimg.cc/gj8WL9db/Capture-d-cran-2025-01-18-222459.png)](https://postimg.cc/bSyM4Bsm)
 image 3
+
 [![test4-sort-desc-ma-tmchich.png](https://i.postimg.cc/523fmMzx/test4-sort-desc-ma-tmchich.png)](https://postimg.cc/NKKhgSbV)
 image 4
+
 [![Error-fetching-instructors.png](https://i.postimg.cc/WbmV2PXM/Error-fetching-instructors.png)](https://postimg.cc/RN0yR2rF)
 
 
