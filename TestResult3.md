@@ -2,7 +2,7 @@
 
 ## 🌟 Le nom du contributeur : Emna ben Mahmoud
 ## 📁 Lieux de l'erreur :
-Interface Member
+Interface Member                                                           
 Interface Instructor-sessions
 ## 📊 type d'erreurs :
 Front end:(as a member)
@@ -21,13 +21,13 @@ Back-end:
 ## Images illustratifs:
 image 1
 
-[![non-justifi.png](https://i.postimg.cc/kM0MJs9d/non-justifi.png)](https://postimg.cc/s1JCKpvn)
+[![non-justifi.png](https://i.postimg.cc/kM0MJs9d/non-justifi.png)](https://postimg.cc/s1JCKpvn)                                  
 image 2 
 
-[![Capture-d-cran-2025-01-18-222459.png](https://i.postimg.cc/gj8WL9db/Capture-d-cran-2025-01-18-222459.png)](https://postimg.cc/bSyM4Bsm)
+[![Capture-d-cran-2025-01-18-222459.png](https://i.postimg.cc/gj8WL9db/Capture-d-cran-2025-01-18-222459.png)](https://postimg.cc/bSyM4Bsm)             
 image 3
 
-[![test4-sort-desc-ma-tmchich.png](https://i.postimg.cc/523fmMzx/test4-sort-desc-ma-tmchich.png)](https://postimg.cc/NKKhgSbV)
+[![test4-sort-desc-ma-tmchich.png](https://i.postimg.cc/523fmMzx/test4-sort-desc-ma-tmchich.png)](https://postimg.cc/NKKhgSbV)                        
 image 4
 
 [![Error-fetching-instructors.png](https://i.postimg.cc/WbmV2PXM/Error-fetching-instructors.png)](https://postimg.cc/RN0yR2rF)
